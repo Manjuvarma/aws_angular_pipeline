@@ -47,7 +47,6 @@ phases:
        - ls
   post_build:
     commands:
-       commands:
        -  echo Build completed on `date`
        -  ls
 #reports:
